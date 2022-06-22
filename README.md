@@ -1,2 +1,2 @@
-# C-Sharp
-Repositório criado quanto aos meus estudos
+# C#
+Repositório criado para colocar alguns códigos desenvolvidos durantem eu período de estudo
